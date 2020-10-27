@@ -1,0 +1,20 @@
+{
+    "Author": "Gary Keong",
+    "ContentSize": 8161,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sync-runbooks-from-visual-studio-git-repository-to-azure-automation-account/master/Sync-VsoGitRunbook.ps1",
+    "DownloadCount": 2146,
+    "Id": "Sync-runbooks-from-Visual-b1186286",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 271,
+    "RaterCount": 5,
+    "Rating": 4.4,
+    "ReleaseDate": "2014-7-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook syncs all runbooks from a Visual Studio online (VSO) git repository to an Azure Automation Account.",
+    "Title": "Sync runbooks from Visual Studio Git repository to Azure Automation Account",
+    "UpdatedDate": "2014-7-12T00:00:00",
+    "Url": "https://github.com/azureautomation/sync-runbooks-from-visual-studio-git-repository-to-azure-automation-account",
+    "UserTags": "Microsoft Azure, Utility, Azure Automation"
+}
